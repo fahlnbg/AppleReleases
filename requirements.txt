@@ -1,0 +1,9 @@
+aiofiles
+aiohttp
+aiopath
+aiosqlite
+bs4
+py-cord==2.0.0b1
+psutil
+python-dotenv
+pytz
